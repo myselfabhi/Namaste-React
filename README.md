@@ -1,1 +1,1 @@
-Basic Food ordering site.
+Basic Food ordering site
